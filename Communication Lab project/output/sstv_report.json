@@ -1,0 +1,26 @@
+{
+  "image_path": "input.jpg.png",
+  "output_wav": "output/sstv_encoded.wav",
+  "image_size": [
+    320,
+    256
+  ],
+  "total_lines": 256,
+  "duration_s": 114.2,
+  "sample_rate": 44100,
+  "file_size_kb": 108.9,
+  "received_wav": "output/sstv_received.wav",
+  "sim_snr_dB": 10.46344137866125,
+  "input_wav": "output/sstv_received.wav",
+  "output_image": "output/sstv_decoded.png",
+  "sync_pulses": 257,
+  "lines_recovered": 256,
+  "snr_estimate_dB": 20.2,
+  "wideband_snr_dB": 18.1,
+  "sync_tone_snr_dB": 15.1,
+  "mean_line_snr_dB": 18.3,
+  "min_line_snr_dB": 8.7,
+  "max_line_snr_dB": 36.5,
+  "sample_rate_hz": 44100,
+  "spectrogram_path": "output/sstv_spectrogram.png"
+}
